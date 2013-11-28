@@ -3,7 +3,7 @@
 Daniele Bacarella 5 Feb 2013
 
 The algorithm used to generate all prime numbers up to a given number
-is: Sieve of Eratostgenes https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+is: Sieve of Eratosthenes https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 
 
 Complexity O(nloglogn)
